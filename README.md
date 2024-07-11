@@ -8,6 +8,6 @@ Sun, Y., Long, H., Feng, X. et al. GaitASMS: gait recognition by adaptive struct
 
 # Please Note
 This code is only used for academic purposes, people cannot use this code for anything that might be considered commercial use.
-
-# Note
 This repo is based on https://github.com/ShiqiYu/OpenGait
+
+
